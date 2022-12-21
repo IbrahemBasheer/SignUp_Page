@@ -1,0 +1,112 @@
+* {
+  box-sizing: border-box;
+}
+
+form > input {
+  width: 351px;
+  height: 52.71px;
+  margin: 10px 0px;
+  padding-left: 20px;
+  border: 0.73px solid #000000;
+  border-radius: 7px;
+  color: black;
+  font-size: 18.46px;
+  display: block;
+  font-family: "Poppins", sans-serif;
+  font-weight: 400;
+  box-sizing: border-box;
+}
+
+button {
+  font-family: "Poppins", sans-serif;
+  width: 132.71px;
+  height: 41.12px;
+  border-radius: 5px;
+  margin: 15px 0px;
+  font-size: 19.56px;
+  font-weight: 600;
+  border: 0.73px solid #000000;
+}
+
+button:hover {
+  opacity: 0.7;
+}
+
+footer > div {
+  margin-top: 70px;
+}
+
+footer > div > a {
+  margin-right: 40px;
+  text-decoration: none;
+}
+
+a:hover {
+  opacity: 0.7;
+}
+
+.bg-white {
+  background-color: white;
+}
+
+.bg-black {
+  background-color: black;
+}
+
+.color-white {
+  color: white;
+}
+
+.color-black {
+  color: black;
+}
+
+.margin-0 {
+  margin: 0px;
+}
+
+.m-top-20 {
+  margin-top: 20px;
+}
+
+.m-bottom-40 {
+  margin-bottom: 40px;
+}
+
+.m-left-70 {
+  margin-left: 70px;
+}
+
+.m-right-15 {
+  margin-right: 15px;
+}
+
+.font-Poppins {
+  font-family: "Poppins", sans-serif;
+}
+
+.block {
+  display: block;
+}
+
+.inline-block {
+  display: inline-block;
+}
+
+.flex {
+  display: flex;
+}
+
+.width-50 {
+  width: 50%;
+}
+
+.full-height {
+  height: 100vh;
+}
+
+.bg-image {
+  background-image: url("images/Rectangle\ 1.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
